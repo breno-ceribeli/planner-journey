@@ -1,6 +1,6 @@
 # Projeto de Planner Simples
 
-![Visualização do Planner](img/planner_preview)
+![Visualização do Planner](img/planner_preview.png)
 
 ## Visão Geral
 
