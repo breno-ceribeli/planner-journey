@@ -9,11 +9,11 @@ Este projeto é uma aplicação simples de planner desenvolvida durante a NLW Jo
 ## Funcionalidades
 
 - Interface amigável.
-- Design responsivo utilizando HTML5 e CSS3.
+- Design responsivo utilizando HTML e CSS.
 - Integração simples de JavaScript para funcionalidades dinâmicas.
 
 ## Tecnologias Utilizadas
 
-- HTML5: Estrutura do conteúdo.
-- CSS3: Estilização e responsividade.
+- HTML: Estrutura do conteúdo.
+- CSS: Estilização e responsividade.
 - JavaScript: Interatividade e manipulação de dados.
